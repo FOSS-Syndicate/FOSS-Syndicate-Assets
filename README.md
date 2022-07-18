@@ -1,7 +1,9 @@
 # FOSS-Syndicate-Assets
 Assets of FOSS-Syndicate Organization
 
-## Text-Logo(s)
+<details>
+<summary>Text Logos</summary>
+<br>
 
 ### Black Text Transparent BG
 ![](./Text-Logo/black-text-transparent-bg.png)
@@ -14,3 +16,5 @@ Assets of FOSS-Syndicate Organization
 
 ### White Text Black BG
 ![](./Text-Logo/white-text-black-bg.png)
+
+</details>
