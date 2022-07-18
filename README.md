@@ -18,3 +18,15 @@ Assets of FOSS-Syndicate Organization
 ![](./Text-Logo/white-text-black-bg.png)
 
 </details>
+
+<details>
+<summary>FS-Logo</summary>
+<br>
+
+### Black
+![](./FS-Logo/black.png)
+
+### White
+![](./FS-Logo/white.png)
+
+</details>
