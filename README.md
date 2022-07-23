@@ -2,7 +2,7 @@
 Assets of FOSS-Syndicate Organization
 
 <details>
-<summary>Text Logos</summary>
+<summary>Banners</summary>
 <br>
 
 ### Colored Logo
