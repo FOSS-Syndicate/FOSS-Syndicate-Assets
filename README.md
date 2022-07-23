@@ -6,16 +6,16 @@ Assets of FOSS-Syndicate Organization
 <br>
 
 ### Black Text Transparent BG
-![](./Text-Logo/black-text-transparent-bg.png)
+![](./Banner/black-text-transparent-bg.png)
 
 ### Black Text White BG
-![](./Text-Logo/black-text-white-bg.png)
+![](./Banner/black-text-white-bg.png)
 
 ### White Text Transparent BG
-![](./Text-Logo/white-text-transparent-bg.png)
+![](./Banner/white-text-transparent-bg.png)
 
 ### White Text Black BG
-![](./Text-Logo/white-text-black-bg.png)
+![](./Banner/white-text-black-bg.png)
 
 </details>
 
