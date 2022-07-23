@@ -5,6 +5,9 @@ Assets of FOSS-Syndicate Organization
 <summary>Text Logos</summary>
 <br>
 
+### Colored Logo
+![](./Banner/logo.png)
+
 ### Black Text Transparent BG
 ![](./Banner/black-text-transparent-bg.png)
 
