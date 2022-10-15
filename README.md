@@ -33,3 +33,13 @@ Assets of FOSS-Syndicate Organization
 <img src="./FS-Logo/white.png" alt="White" height="150px">
 
 </details>
+
+<details>
+<summary>Additional Artworks</summary>
+<br>
+
+<img src="./Additional-Artworks/001.jpg" height="150px">
+<img src="./Additional-Artworks/002.jpg" height="150px">
+<img src="./Additional-Artworks/003.jpg" height="150px">
+
+</details>
