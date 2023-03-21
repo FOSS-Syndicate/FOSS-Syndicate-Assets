@@ -2,6 +2,24 @@
 Assets of FOSS-Syndicate Organization
 
 <details>
+<summary>Main Logo</summary>
+<br>
+
+### Black, Transparent BG
+![](./Logo/3000px/2.png)
+
+### Black, White BG
+![](./Logo/3000px/1.png)
+
+### White, Transparent BG
+![](./Logo/3000px/4.png)
+
+### White, Black BG
+![](./Logo/3000px/3.png)
+
+</details>
+
+<details>
 <summary>Banners</summary>
 <br>
 
